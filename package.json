@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/MeaghanCampbell/social-network-api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "mongoose-unique-validator": "^2.0.3"
   }
 }
